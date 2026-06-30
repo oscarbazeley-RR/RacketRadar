@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "rackets": [
+    {"id":1, "brand":"Bullpadel", "name":"Vertex 04", "shape":"diamond", "level":"Pro", "price":469, "store":"PadelHub AU", "weight":365, "balance":"High", "core":"Hard EVA", "face":"18K Carbon", "power":95, "control":62},
+    {"id":2, "brand":"Bullpadel", "name":"Hack 04", "shape":"round", "level":"Intermediate", "price":289, "store":"Court & Co", "weight":355, "balance":"Low", "core":"Medium EVA", "face":"Fibreglass", "power":48, "control":88},
+    {"id":3, "brand":"Babolat", "name":"Air Viper", "shape":"diamond", "level":"Pro", "price":439, "store":"SmashPoint", "weight":360, "balance":"High", "core":"Hard EVA", "face":"Carbon 3K", "power":92, "control":58},
+    {"id":4, "brand":"Babolat", "name":"Counter Veron", "shape":"round", "level":"Beginner", "price":199, "store":"Court & Co", "weight":350, "balance":"Low", "core":"Soft EVA", "face":"Fibreglass", "power":35, "control":90},
+    {"id":5, "brand":"Head", "name":"Speed Pro", "shape":"diamond", "level":"Advanced", "price":399, "store":"PadelHub AU", "weight":362, "balance":"High", "core":"Hard EVA", "face":"Carbon", "power":88, "control":60},
+    {"id":6, "brand":"Head", "name":"Gravity Elite", "shape":"round", "level":"Advanced", "price":359, "store":"SmashPoint", "weight":358, "balance":"Medium", "core":"Hybrid EVA", "face":"Carbon", "power":64, "control":80},
+    {"id":7, "brand":"Nox", "name":"ML10 Pro Cup", "shape":"teardrop", "level":"Pro", "price":429, "store":"Court & Co", "weight":363, "balance":"Medium", "core":"HR3 Foam", "face":"18K Carbon", "power":80, "control":76},
+    {"id":8, "brand":"Nox", "name":"AT10 Genius", "shape":"teardrop", "level":"Advanced", "price":379, "store":"PadelHub AU", "weight":360, "balance":"Medium", "core":"HR3 Foam", "face":"Carbon", "power":76, "control":78},
+    {"id":9, "brand":"Siux", "name":"Electra Aniti", "shape":"teardrop", "level":"Pro", "price":449, "store":"SmashPoint", "weight":362, "balance":"Medium", "core":"Aniti Foam", "face":"18K Carbon", "power":84, "control":74},
+    {"id":10, "brand":"Siux", "name":"Tour Control", "shape":"round", "level":"Intermediate", "price":259, "store":"Court & Co", "weight":352, "balance":"Low", "core":"Medium EVA", "face":"Fibreglass", "power":46, "control":86},
+    {"id":11, "brand":"Adidas", "name":"Adipower CTRL", "shape":"round", "level":"Advanced", "price":329, "store":"PadelHub AU", "weight":356, "balance":"Low", "core":"Soft EVA", "face":"Carbon", "power":50, "control":84},
+    {"id":12, "brand":"Adidas", "name":"Metalbone", "shape":"diamond", "level":"Pro", "price":459, "store":"SmashPoint", "weight":365, "balance":"High", "core":"Hard EVA", "face":"18K Carbon", "power":96, "control":55},
+    {"id":13, "brand":"Dunlop", "name":"Inferno Elite", "shape":"teardrop", "level":"Intermediate", "price":249, "store":"Court & Co", "weight":357, "balance":"Medium", "core":"Medium EVA", "face":"Fibreglass/Carbon", "power":62, "control":72},
+    {"id":14, "brand":"Dunlop", "name":"Blaze Attack", "shape":"diamond", "level":"Beginner", "price":179, "store":"PadelHub AU", "weight":350, "balance":"Medium-High", "core":"Soft EVA", "face":"Fibreglass", "power":55, "control":65},
+    {"id":15, "brand":"Wilson", "name":"Bela Pro v2", "shape":"round", "level":"Pro", "price":419, "store":"SmashPoint", "weight":359, "balance":"Low", "core":"Hard EVA", "face":"Carbon", "power":58, "control":82},
+    {"id":16, "brand":"Wilson", "name":"Stinger 3.0", "shape":"teardrop", "level":"Beginner", "price":159, "store":"Court & Co", "weight":348, "balance":"Medium", "core":"Soft EVA", "face":"Fibreglass", "power":40, "control":75}
+  ]
+}
